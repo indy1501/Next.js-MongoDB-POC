@@ -1,3 +1,3 @@
-# NextJS-MongoDB-POC
+# Next.js-MongoDB-POC
 
-NextJS POC Repository
+Next.js POC Repository
